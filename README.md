@@ -9,7 +9,7 @@ driving simulator OpenDS from DFKI (Deutsches Forschungszentrum für Künstliche
 
 OpenDS provides a powerful solution to realistic vehicle dynamics, traffic flow, traffic light and physics (weather, light, frictions) simulation and is used in this project to provide early prototyping of ADAS/HAD modules of autonomous cars.
 Ptolemy II features an actor-oriented, multi-domain simulation with abundant built-in pre-programmed functional blocks in type conversion, database, Machine Learning, Co-Simulation, etc and can be utilized as automotive E/E Architecture simulator.
-This work combines both simulators so an autonumous driving car can be simulated in OpenDS, whereas the functionalities of electrical and electronic systems are defined in Ptolemy II.
+This work combines both simulators so an autonumous driving car as well as its physics interaction with the environment can be simulated in OpenDS, whereas the functionalities of electrical and electronic systems are defined in Ptolemy II.
 
 #Getting Started
 
