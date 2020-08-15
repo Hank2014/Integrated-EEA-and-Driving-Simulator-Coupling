@@ -24,5 +24,5 @@ These instructions will help you through the deployment of the proposed simulati
 4. (Recommended) Install an integrated development environment (IDE) such as Eclipse. 
 
 #Installing this package:
-1. Just copy the files in this repository to the respective projects and replace any files that already exists.
+1. Just copy the files in this repository to the respective projects and overwrite any file that already exists.
 
