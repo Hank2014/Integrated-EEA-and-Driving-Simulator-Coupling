@@ -1,6 +1,6 @@
 # Integrated-EEA-and-Driving-Simulator-Coupling
 
-<img> ScreenshotOpends.jpg </img>
+<img> ScreenshotOpends.jpg <\img>
 #Project Summary:
 
 This project provides a co-simulation framework for realistic driving simulation, dedicated to ADAS/HAD validation. 
