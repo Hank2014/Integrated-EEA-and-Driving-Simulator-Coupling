@@ -1,6 +1,7 @@
 # Integrated-EEA-and-Driving-Simulator-Coupling
 
 #Project Summary:
+
 This project provides a co-simulation framework for realistic driving simulation, dedicated to ADAS/HAD validation. 
 Specifically, this project contains the coupling of the two open-source simulators: 
 driving simulator OpenDS from DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz, https://opends.dfki.de/) and Ptolemy II from UC Berkeley (https://ptolemy.berkeley.edu/ptolemyII/index.htm).
@@ -10,6 +11,8 @@ Ptolemy II features an actor-oriented, multi-domain simulation with abundant bui
 This work combines both simulators so an autonumous driving car can be simulated in OpenDS, whereas the functionalities of electrical and electronic systems are defined in Ptolemy II.
 
 #Getting Started
+
+
 These instructions will help you through the deployment of the proposed simulation framework.
 
 #Prerequisites:
