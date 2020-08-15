@@ -3,6 +3,7 @@
 #Project Summary:
 
 This project provides a co-simulation framework for realistic driving simulation, dedicated to ADAS/HAD validation. 
+
 Specifically, this project contains the coupling of the two open-source simulators: 
 driving simulator OpenDS from DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz, https://opends.dfki.de/) and Ptolemy II from UC Berkeley (https://ptolemy.berkeley.edu/ptolemyII/index.htm).
 
