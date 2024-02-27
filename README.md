@@ -14,7 +14,6 @@ This work combines both simulators so an autonumous driving car as well as its p
 
 **#Getting Started**
 
-
 These instructions will help you through the deployment of the proposed simulation framework.
 
 **#Prerequisites:**
@@ -27,3 +26,5 @@ These instructions will help you through the deployment of the proposed simulati
 **#Installing this package:**
 1. Just copy the files in this repository to the respective projects and overwrite any file that already exists.
 
+**#Important Note:**
+Due to confidentiality agreements, certain sensitive code segments have been either rewritten or removed from this repository.
